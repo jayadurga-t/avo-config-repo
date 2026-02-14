@@ -1,10 +1,10 @@
 build:
-  version: "4.0"
+  version: "1.0"
 
 loans:
   message: "Welcome to Avo Bank loans related prod APIs "
   contactDetails:
-    name: "Pelias Sudhir - Product Owner Owner"
+    name: "Pelias Sudhir - Product Owner"
     email: "pelias@avo.com"
   onCallSupport:
     - (723) 656-8709
