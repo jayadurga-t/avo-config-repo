@@ -2,7 +2,7 @@ build:
   version: "10.0"
 
 loans:
-  message: "Welcome to Avo Bank loans related production APIs "
+  message: "Welcome to Avo Bank loans related prod APIs "
   contactDetails:
     name: "Pelias Sudhir - Product Owner"
     email: "pelias@avo.com"
