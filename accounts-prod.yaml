@@ -1,8 +1,8 @@
 build:
-  version: "1.0"
+  version: "5.0"
 
 accounts:
-  message: "Welcome to Avo Bank accounts related prod APIs "
+  message: "Welcome to Avo Bank accounts related webhook APIs "
   contactDetails:
     name: "Reine Aishwarya - Product Owner"
     email: "{cipher}e702bd72ca8a18b8450e76ef84264c1220d240f01672c4db7a93d896ecb6ec75a086a634a99364c11b22578ebc0006f2"
