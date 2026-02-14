@@ -1,8 +1,8 @@
 build:
-  version: "5.0"
+  version: "10.0"
 
 cards:
-  message: "Welcome to Avo Bank cards related prod APIs "
+  message: "Welcome to Avo Bank cards related production APIs "
   contactDetails:
     name: "Sandra Harald - Product Owner"
     email: "sandra@avo.com"
