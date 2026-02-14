@@ -1,10 +1,10 @@
 build:
-  version: "1.0"
+  version: "4.0"
 
 cards:
   message: "Welcome to Avo Bank cards related prod APIs "
   contactDetails:
-    name: "Sandra Harald - Product Owner"
+    name: "Sandra Harald - Product Owner Owner"
     email: "sandra@avo.com"
   onCallSupport:
     - (617) 432-2356
