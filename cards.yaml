@@ -1,8 +1,8 @@
 build:
-  version: "3.0"
+  version: "30.0"
 
 cards:
-  message: "Welcome to Avo Bank cards related local APIs "
+  message: "Welcome to Avo Bank cards related docker APIs "
   contactDetails:
     name: "Dragos Lech - Developer"
     email: "dragos@avo.com"
