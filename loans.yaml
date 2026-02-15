@@ -1,8 +1,8 @@
 build:
-  version: "3.0"
+  version: "30.0"
 
 loans:
-  message: "Welcome to Avo Bank loans related local APIs "
+  message: "Welcome to Avo Bank loans related docker APIs "
   contactDetails:
     name: "Amaal Grega - Developer"
     email: "amaal@avo.com"
