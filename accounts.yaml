@@ -1,8 +1,8 @@
 build:
-  version: "3.0"
+  version: "30.0"
 
 accounts:
-  message: "Welcome to Avo Bank accounts related local APIs "
+  message: "Welcome to Avo Bank accounts related docker APIs "
   contactDetails:
     name: "John Doe - Developer"
     email: "john@avo.com"
