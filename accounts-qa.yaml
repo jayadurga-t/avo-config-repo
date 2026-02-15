@@ -1,8 +1,8 @@
 build:
-  version: "2.0"
+  version: "20.0"
 
 accounts:
-  message: "Welcome to Avo Bank accounts related QA APIs "
+  message: "Welcome to Avo Bank accounts related docker APIs "
   contactDetails:
     name: "Smitha Ray - QA Lead"
     email: "smitha@avo.com"
